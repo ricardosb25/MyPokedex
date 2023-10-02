@@ -22,7 +22,7 @@ body {
   }
 
   .title_container{
-    border-bottom: solid black 5px;
+    border-bottom: solid rgb(44, 44, 44) 5px;
     border-width: 20px;
   }
 
